@@ -1,0 +1,9 @@
+student1,pass123,Alice Smith,Student,0
+student2,pass123,Bob Johnson,Student,0
+student3,pass123,Charlie Brown,Student,0
+student4,pass123,David Wilson,Student,0
+student5,pass123,Eve Davis,Student,0
+faculty1,pass123,Dr. Emily White,Faculty,0
+faculty2,pass123,Dr. John Miller,Faculty,0
+faculty3,pass123,Dr. Sarah Taylor,Faculty,0
+librarian1,admin123,Admin User,Librarian,0

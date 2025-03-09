@@ -1,0 +1,10 @@
+001,The Catcher in the Rye,J.D. Salinger,Little Brown,1951,Available
+002,To Kill a Mockingbird,Harper Lee,J.B. Lippincott,1960,Available
+003,1984,George Orwell,Secker & Warburg,1949,Available
+004,The Great Gatsby,F. Scott Fitzgerald,Scribner,1925,Available
+005,Pride and Prejudice,Jane Austen,T. Egerton,1813,Available
+006,The Hobbit,J.R.R. Tolkien,Allen & Unwin,1937,Available
+007,Animal Farm,George Orwell,Secker & Warburg,1945,Available
+008,Brave New World,Aldous Huxley,Chatto & Windus,1932,Available
+009,The Lord of the Rings,J.R.R. Tolkien,Allen & Unwin,1954,Available
+010,The Da Vinci Code,Dan Brown,Penguin,2003,Available
