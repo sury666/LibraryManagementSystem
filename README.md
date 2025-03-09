@@ -53,6 +53,8 @@ To run the program, use the following command:
 ```sh
 ./LibraryManagementSystem
 ```
+### Note
+Ensure that the `users.txt` and `books.txt`  and `transactions.txt` files are in the same directory as the executable.
 
 ## Usage
 
@@ -85,8 +87,3 @@ And an example of the `books.txt` file:
 001,The Catcher in the Rye,J.D. Salinger,Little Brown,1951,Available
 002,To Kill a Mockingbird,Harper Lee,J.B. Lippincott,1960,Available
 ```
-
-## Notes
-
-- Ensure that the `users.txt` and `books.txt`  and `transactions.txt` files are in the same directory as the executable.
-- The program will update the data files when the user exits the program
